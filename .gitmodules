@@ -1,3 +1,6 @@
 [submodule "yara"]
 	path = yara
 	url = https://github.com/Yara-Rules/rules
+[submodule "LiSa"]
+	path = LiSa
+	url = https://github.com/danieluhricek/LiSa.git
